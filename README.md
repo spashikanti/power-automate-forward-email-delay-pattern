@@ -40,7 +40,7 @@ In this sample, emails are moved after processing. In production scenarios, you 
 
 ## Download
 
-[![Download ZIP](https://img.shields.io/badge/Download-Solution-blue?style=for-the-badge&logo=github)](https://github.com/spashikanti/SunilP-PowerApps-Shimmer/releases/latest)
+[![Download ZIP](https://img.shields.io/badge/Download-Solution-blue?style=for-the-badge&logo=github)](https://github.com/spashikanti/power-automate-forward-email-delay-pattern/releases/latest)
 [![Release](https://img.shields.io/github/v/release/spashikanti/power-automate-forward-email-delay-pattern?style=for-the-badge&logo=github&color=brightgreen)](https://github.com/spashikanti/power-automate-forward-email-delay-pattern/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/spashikanti/power-automate-forward-email-delay-pattern/total?style=for-the-badge&color=yellow)](https://github.com/spashikanti/power-automate-forward-email-delay-pattern/releases)
 
